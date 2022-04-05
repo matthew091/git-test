@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Hello github-ssh!");
         System.out.println("Hello github-ssh!");
         System.out.println("Hello 我在本地的改动!");
+        System.out.println("Hello 我在本地的改动3!");
     }
 }
