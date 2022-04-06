@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("Hello 我在本地的改动2!");
         System.out.println("Hello 我在本地的改动!");
         System.out.println("Hello 我在本地的改动3!");
+        System.out.println("Hello 我在码云的改动!");
     }
 }
